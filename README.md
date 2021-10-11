@@ -1,6 +1,6 @@
 # Affirmations
 
-Esse projeto contém uma lista de frases motivacionais combinadas com fotos, com o intuito de aprender a ferramenta Recyclerview, para criar um app de lista no android Studio.
+Esse projeto contém uma lista de frases motivacionais combinadas com fotos, com o intuito de aprender a ferramenta recyclerview, para criar um app de lista no Android Studio.
 
 ### Trilha de Aprendizado:
 
